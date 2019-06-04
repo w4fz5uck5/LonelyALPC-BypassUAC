@@ -1,0 +1,7 @@
+﻿  Processing .\rpc.idl
+  rpc.idl
+  ALPC-BypassUAC.cpp
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\ALPC-BypassUAC.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Debug\ALPC-BypassUAC.pch': No such file or directory
+  stdafx.cpp
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\stdafx.cpp(5): fatal error C1083: Cannot open precompiled header file: 'Debug\ALPC-BypassUAC.pch': No such file or directory
+  Generating Code...

@@ -1,0 +1,9 @@
+﻿  Socket.cpp
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\Socket.cpp(146): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\Socket.cpp(150): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\Socket.cpp(199): error C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\WinSock2.h(2219): note: see declaration of 'gethostbyname'
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\Socket.cpp(200): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(182): note: see declaration of 'strerror'
+D:\Desktop\2\alpc-mmc-uac-bypass-master\ALPC-BypassUAC\Socket.cpp(211): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(182): note: see declaration of 'strerror'
