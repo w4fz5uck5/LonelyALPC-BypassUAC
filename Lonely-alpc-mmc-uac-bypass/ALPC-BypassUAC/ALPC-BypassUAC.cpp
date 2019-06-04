@@ -1,12 +1,12 @@
 //--------------------------------------------------------------------+
 // @w4fz5uck5 | I'm not the exploit author                            |
 //            | I code for fun!                                       |
-//			  | Thanks for the author to share this amazing technique!|
+//	      | Thanks for the author to share this amazing technique!|
 //------------'-------------------------------------------------------+-------------------+
 // Original source-code: | https://github.com/DimopoulosElias/alpc-mmc-uac-bypass         |
-//		                 | https://www.youtube.com/watch?v=D-F5RxZ_yXc                    |
-//						 | https://www.rump.beer/2017/slides/from_alpc_to_uac_bypass.pdf  | 
-//						 | https://youtu.be/eOXq-2Gg6lU                                   |
+//		         | https://www.youtube.com/watch?v=D-F5RxZ_yXc                    |
+//			 | https://www.rump.beer/2017/slides/from_alpc_to_uac_bypass.pdf  | 
+//			 | https://youtu.be/eOXq-2Gg6lU                                   |
 //-----------------------'----------------------------------------------------------------+
 
 #pragma once
