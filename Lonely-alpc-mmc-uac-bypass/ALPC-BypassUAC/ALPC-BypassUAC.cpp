@@ -1,7 +1,7 @@
-//--------------------------------------------------------------------+
-// @w4fz5uck5 | I'm not the exploit author                            |
-//            | I code for fun!                                       |
-//	      | Thanks for the author to share this amazing technique!|
+//----------------------------------------------------------------------+
+// @w4fz5uck5 | I'm not the exploit author                              |
+//            | I code for fun!                                         |
+//	      | Thanks to the author for sharing this amazing technique!|
 //------------'-------------------------------------------------------+-------------------+
 // Original source-code: | https://github.com/DimopoulosElias/alpc-mmc-uac-bypass         |
 //		         | https://www.youtube.com/watch?v=D-F5RxZ_yXc                    |
