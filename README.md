@@ -14,3 +14,7 @@ I didn't implemented any powershell module with base64 encoding or binary unpack
 **https://github.com/HarmJ0y/Misc-PowerShell/blob/master/Get-System.ps1** 
 
 Also, i didn't binary unpacking or base64 enconding for the **.msc**  file, which is run by **mmc.exe**  service, it .msc file is necessary to make this service access our fake webserver and run code.
+
+EXAMPLE:
+
+![alt text](calc.png)
