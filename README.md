@@ -10,7 +10,7 @@ NOTES:
 Thanks to **[DimopoulosElias]** for the original exploit
 **https://github.com/DimopoulosElias/alpc-mmc-uac-bypass** 
 
-I didn't implemented any powershell module with base64 encoding or binary unpacking.. the method which i'm utilizing at now  is by using get-system.ps1 and executing it module via IEX by this url: 
+I didn't implemented any powershell module with base64 encoding or binary unpacking.. the method which i'm utilizing at now  is by using get-system.ps1 and executing it module via IEX from: 
 **https://github.com/HarmJ0y/Misc-PowerShell/blob/master/Get-System.ps1** 
 
 Also, i didn't binary unpacking or base64 enconding for the **.msc** file, which is ran by **mmc.exe**  service. That .msc file after all is necessary to turn this service on to be accessible by our fake webserver and perform code execution.
