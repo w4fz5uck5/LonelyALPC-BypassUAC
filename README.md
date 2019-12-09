@@ -15,11 +15,11 @@ I didn't implemented any powershell module with base64 encoding or binary unpack
 
 Also, i didn't binary unpacking or base64 enconding for the **.msc** file, which is ran by **mmc.exe**  service. That .msc file after all is necessary to turn this service on to be accessible by our fake webserver and perform code execution.
 
-**EXAMPLE:**
+**EXAMPLE (Updated 08/12/2019):**
 
-![alt text](calc.png)
-
-
+![alt text](1.png)
 
 
-![alt text](1.jpg)
+
+
+![alt text](2.png)
