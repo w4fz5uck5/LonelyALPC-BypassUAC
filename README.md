@@ -17,9 +17,8 @@ Also, i didn't binary unpacking or base64 enconding for the **.msc** file, which
 
 **EXAMPLE (Updated 08/12/2019):**
 
+**SYSTEM - NOTEPAD.exe:**
 ![alt text](1.png)
 
-
-
-
+**ADD ADMIN USER**
 ![alt text](2.png)
