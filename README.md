@@ -1,4 +1,5 @@
 # LonelyALPC-BypassUAC
+# ATTENTION! This script will not work until you change [[Link Text]([path/to/file](Lonely-alpc-mmc-uac-bypass/ALPC-BypassUAC/ALPC-BypassUAC.cpp#L171C2)] for your personal Link (it must return a b64 for your C:\\Windows\\tasks\\WinDrivers.msc
 Lonely x64 binary to Bypass Win10 UAC utilizing ALPC (mmc) method with **[command line]** !
 **Tested on Win10 1809 and 1909** 
 
